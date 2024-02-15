@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-OTP-verification/static/css/main.1a6f4cab.css",
+    "main.js": "/React-OTP-verification/static/js/main.b9013ba8.js",
+    "index.html": "/React-OTP-verification/index.html",
+    "main.1a6f4cab.css.map": "/React-OTP-verification/static/css/main.1a6f4cab.css.map",
+    "main.b9013ba8.js.map": "/React-OTP-verification/static/js/main.b9013ba8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6f4cab.css",
+    "static/js/main.b9013ba8.js"
+  ]
+}
